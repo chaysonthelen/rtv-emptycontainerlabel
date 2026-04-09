@@ -1,0 +1,7 @@
+[mod]
+name="Loot Container Empty Label"
+id="chase-container"
+version="0.0.1"
+
+[autoload]
+chaseContainerMain="res://mods/ChaseContainer/Main.gd"
