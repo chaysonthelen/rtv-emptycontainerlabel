@@ -5,7 +5,7 @@ var isCabin = false
 var current_scene: Node
 
 func _ready():
-    super._ready()
+    super()
 
     current_scene = get_tree().current_scene
     isCabin = current_scene.name == "Cabin"
