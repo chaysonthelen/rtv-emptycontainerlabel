@@ -14,4 +14,4 @@ func UpdateTooltip():
         if searched and loot.is_empty() and storage.is_empty():
             gameData.tooltip = containerName + " [Empty]"
         else:
-            gameData.tooltip = containerName + " [Open Gay Ass]"
+            gameData.tooltip = containerName + " [FUCK FUCK FUCK]"
